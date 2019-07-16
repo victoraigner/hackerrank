@@ -1,2 +1,2 @@
 # hackerrank
-Codes written for Hacker Rank  
+Code written for Hacker Rank  
